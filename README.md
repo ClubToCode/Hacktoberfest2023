@@ -37,6 +37,9 @@ modify, and benefit from the collective intelligence of a global community of de
 >[!NOTE]
 >A pull request, often abbreviated as PR, serves as a proposal to merge changes made in one branch of a repository into another, typically from a feature branch into the main branch. Pull requests are essential for facilitating code reviews, encouraging collaboration, and maintaining a clean, well-documented codebase.
 
+`If you want learn more about how to open an pull request for contrbuting and how to write a good pull request visit`
+>[GitKraken/PullRequest](https://www.gitkraken.com/learn/git/tutorials/what-is-a-pull-request-in-git)
+
 
 
 
