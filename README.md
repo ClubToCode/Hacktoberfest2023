@@ -34,6 +34,8 @@ modify, and benefit from the collective intelligence of a global community of de
 - The first 50,000 participants to have their first PR/MR accepted will have a tree planted in their name through Tree Nation.
 - Participants with four pull/merge requests accepted between October 1 and October 31 will receive a unique digital reward.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 >[!NOTE]
 >A pull request, often abbreviated as PR, serves as a proposal to merge changes made in one branch of a repository into another, typically from a feature branch into the main branch. Pull requests are essential for facilitating code reviews, encouraging collaboration, and maintaining a clean, well-documented codebase.
 
