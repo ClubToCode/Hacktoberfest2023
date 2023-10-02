@@ -28,9 +28,9 @@ modify, and benefit from the collective intelligence of a global community of de
 #### Here’s what you need to know to participate and complete Hacktoberfest:
 
 - Register anytime between September 26 and October 31
-- You must get merged 4 of your pull requests by the project maintainer in order to compelete it. 
-- Pull requests can be made in GitHub hosted project that’s participating in Hacktoberfest (look for the “hacktoberfest” topic)
-- Project maintainers must accept your pull/merge requests for them to count toward your total
+- You must `get merged 4 of your pull requests` by the project maintainer `in order to compelete it`. 
+- Pull requests can be made in GitHub hosted project that’s participating in Hacktoberfest `(look for the “hacktoberfest” topic)`
+- `Project maintainers` must accept your pull/merge requests for them to count toward your total
 - The first 50,000 participants to have their first PR/MR accepted will have a tree planted in their name through Tree Nation.
 - Participants with four pull/merge requests accepted between October 1 and October 31 will receive a unique digital reward.
 
@@ -50,7 +50,7 @@ You get a lot of benefits by contributing to open-source like:
   - Project Management Skills: How software developers come and develop software, do releases, bug fixes, and patches, and document things. While maintaining peace and collaborating is an interesting thing to know.
   - Understand Real World Use Cases: Contributing to projects used in the industry can expose you to real-world development scenarios and user requirements.
     
-- Skill Development: This is the best part. Your learning and skills skyrocket while contributing and collaborating with open-source projects and communities. You will get the opportunity to Solve diverse problems, get Real-World Experience and Collaboration and Teamwork skill.
+- Skill Development: This is the best part. Your learning and skills skyrocket while contributing and collaborating with open-source projects and communities. You will get the opportunity to Solve diverse problems, get Real-World Experience and have Collaboration and Teamwork skills.
 
 - Improve your Portfolio and Resume: As you contribute to open source, each pull request you create helps you gain new skills. And you get practical applications of those skills.
 
@@ -58,9 +58,28 @@ You get a lot of benefits by contributing to open-source like:
 
 - Networking Opportunities: Within these communities, there are a lot of people who come from diverse backgrounds who can provide career guidance, offer collaboration opportunities, or even recommend you for job openings.
 
->[!NOTE] So, just by working on open-source projects, you get a lot of exposure and learning. This is an amazing way to boost your career and knowledge base. You can also get hired by some amazing open-source companies/organizations.
+>[!NOTE]
+>So, just by working on open-source projects, you get a lot of exposure and learning. This is an amazing way to boost your career and knowledge base. You can also get hired by some amazing open-source companies/organizations.
+
+## How to start Hacktoberfest: 
+
+1. First Get yourself registered at the [Hactoberfest](https://hacktoberfest.com/auth/) website so that you can track yourv journey and get digital badges as a reward by connecting your GitHub profile to the Holopin website, and in the registration process they some questions and it's pretty simple.
+   
+1. Start by Learning `Git` and `Github` terminologies and `how to contribute to any project`, You can get the learning resources in this repo < Repo name >.
+
+1. Learn Markdown (.md file) syntax used to write documentation of projects (repo) on GitHub, Markdowns will help you in making tech and non-tech contributions. 
+
+1. Know at least one programming or scripting or markup language whether its C, C++, Python, Java, Javascript, HTML, CSS, MD, or Bash you need to know at least one language for contributing to open source project.
+
+1. Learn how to contribute your change to the main branch of the project you forked, by raising issue and writing Pull-Request.
 
 
+## Stay with the community
+
+https://discord.com/invite/hacktoberfest
+![Group hv](https://github.com/ClubToCode/Hacktoberfest2023/assets/97173586/483f1b72-e931-4bbb-8c9b-69ad73ad1926)
+
+   
 
 
 
