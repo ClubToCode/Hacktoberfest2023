@@ -8,14 +8,14 @@
 
 </div>
 
-## What is HAcktoberfest?
+## 🤔 What is HAcktoberfest?
 
 > Hacktoberfest is a month-long celebration of open-source projects, their maintainers, and the entire community of contributors. Each October, open-source maintainers give new contributors extra attention as they guide developers through their first pull requests on GitHub.
 ~ from GitHub.
 
 ![Group 9](https://github.com/ClubToCode/Hacktoberfest2023/assets/97173586/a6a977d3-19b9-4aee-902a-80cb61a98d60)
 
-### A story
+### 🚣‍♀️ A story
 We all use use `open-source software` in our day-to-day lives as developers or consumers of products that rely on `open-source libraries`.
 
 These software are created and maintained by people and organizations. Who open source their software for wider adoption, freedom to use, and
@@ -23,7 +23,7 @@ modify, and benefit from the collective intelligence of a global community of de
 
 `Hacktoberfest` serves as a dedicated month-long celebration to contribute to these open-source projects. It's an opportunity for everyone, whether you're a `newcomer` or an `experienced developer`, to contribute to open-source projects and positively impact the community.
 
-## Rules of Hacktoberfest2023
+## 📜Rules of Hacktoberfest2023
 
 #### Here’s what you need to know to participate and complete Hacktoberfest:
 
@@ -43,7 +43,7 @@ modify, and benefit from the collective intelligence of a global community of de
 >[GitKraken/PullRequest](https://www.gitkraken.com/learn/git/tutorials/what-is-a-pull-request-in-git)
 
 
-## Why Contribute to Open-Source and do hacktoberfest?
+## ✨🎖️ Why Contribute to Open-Source and do hacktoberfest?
 You get a lot of benefits by contributing to open-source like: 
 
 - Professional Experience:  Contributing to projects that other people, companies, or organizations use. Gives you a professional experience. You get:
@@ -61,7 +61,7 @@ You get a lot of benefits by contributing to open-source like:
 >[!NOTE]
 >So, just by working on open-source projects, you get a lot of exposure and learning. This is an amazing way to boost your career and knowledge base. You can also get hired by some amazing open-source companies/organizations.
 
-## How to start Hacktoberfest: 
+## 🎢 How to start Hacktoberfest: 
 
 1. First Get yourself registered at the [Hactoberfest](https://hacktoberfest.com/auth/) website so that you can track yourv journey and get digital badges as a reward by connecting your GitHub profile to the Holopin website, and in the registration process they some questions and it's pretty simple.
    
@@ -74,10 +74,10 @@ You get a lot of benefits by contributing to open-source like:
 1. Learn how to contribute your change to the main branch of the project you forked, by raising issue and writing Pull-Request.
 
 
-## Stay with the community
+## 🎭 Stay with the community
 
-https://discord.com/invite/hacktoberfest
-![Group hv](https://github.com/ClubToCode/Hacktoberfest2023/assets/97173586/483f1b72-e931-4bbb-8c9b-69ad73ad1926)
+#### Join the Hacktoberfest Discord channel and Get connected to developers around the globe You may even find useful resource in this group.
+[![Group hv](https://github.com/ClubToCode/Hacktoberfest2023/assets/97173586/483f1b72-e931-4bbb-8c9b-69ad73ad1926)](https://discord.com/invite/hacktoberfest)
 
    
 
