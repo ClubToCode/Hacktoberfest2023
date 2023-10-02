@@ -43,6 +43,22 @@ modify, and benefit from the collective intelligence of a global community of de
 >[GitKraken/PullRequest](https://www.gitkraken.com/learn/git/tutorials/what-is-a-pull-request-in-git)
 
 
+## Why Contribute to Open-Source and do hacktoberfest?
+You get a lot of benefits by contributing to open-source like: 
+
+- Professional Experience:  Contributing to projects that other people, companies, or organizations use. Gives you a professional experience. You get:
+  - Project Management Skills: How software developers come and develop software, do releases, bug fixes, and patches, and document things. While maintaining peace and collaborating is an interesting thing to know.
+  - Understand Real World Use Cases: Contributing to projects used in the industry can expose you to real-world development scenarios and user requirements.
+    
+- Skill Development: This is the best part. Your learning and skills skyrocket while contributing and collaborating with open-source projects and communities. You will get the opportunity to Solve diverse problems, get Real-World Experience and Collaboration and Teamwork skill.
+
+- Improve your Portfolio and Resume: As you contribute to open source, each pull request you create helps you gain new skills. And you get practical applications of those skills.
+
+- Get Mentored by Amazing People: Yes, you meet people who will guide you, help you out, and mentor you on many things. These are some of the people who leave a lasting impact on your career.
+
+- Networking Opportunities: Within these communities, there are a lot of people who come from diverse backgrounds who can provide career guidance, offer collaboration opportunities, or even recommend you for job openings.
+
+>[!NOTE] So, just by working on open-source projects, you get a lot of exposure and learning. This is an amazing way to boost your career and knowledge base. You can also get hired by some amazing open-source companies/organizations.
 
 
 
