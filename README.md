@@ -76,7 +76,10 @@ You get a lot of benefits by contributing to open-source like:
 
 ## 🎭 Stay with the community
 
-#### Join the Hacktoberfest Discord channel and Get connected to developers around the globe You may even find useful resource in this group.
+#### Join the Hacktoberfest Discord channel and Get connected to developers around the globe You may even find useful resources in this group.
+
+#### ------------------------------------------------ https://discord.com/invite/hacktoberfest -------------------------------------------------------
+                                                    
 [![Group hv](https://github.com/ClubToCode/Hacktoberfest2023/assets/97173586/483f1b72-e931-4bbb-8c9b-69ad73ad1926)](https://discord.com/invite/hacktoberfest)
 
    
